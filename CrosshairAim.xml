@@ -32,6 +32,6 @@ Source and issues: https://github.com/aegonthe5th-crTheeatTe/CrosshairAim</Descr
     </SourceDirectories>
 
     <!-- After first push, put the full commit hash here and update it on every release -->
-    <Commit></Commit>
+    <Commit>153743515dfb95fda2f636e4d5f684eeb66f6296</Commit>
 
 </PluginData>
