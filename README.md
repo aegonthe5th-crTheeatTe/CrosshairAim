@@ -15,7 +15,7 @@ While either of those camera mods is driving the camera, this plugin makes:
 - The game's crosshair hidden when the cover mod shows its red one
 
 When those mods are not active the game is left completely alone.  
-**Single player only.**
+
 
 ## Requirements
 
