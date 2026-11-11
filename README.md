@@ -46,11 +46,6 @@ Based on the [client plugin template](https://github.com/CometWorks/client-plugi
 2. Run `python setup.py` once and enter `CrosshairAim` when asked for the project name (or just edit `Directory.Build.props.user` with your game / Pulsar paths)
 3. `dotnet build ClientPlugin/ClientPlugin.csproj -c Release`
 
-## Version history
-
-- **v3.5** – Hide game crosshair under cover mod’s red one; block jump while in cover
-- **v3.4** – Walk override for cover mod (A/D along cover)
-- Earlier – Core aim + use ray redirection, zoom, sprint
 
 ## License
 
