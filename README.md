@@ -38,7 +38,6 @@ Install steps
     Windows often blocks downloaded DLLs.
         Right-click the .dll file → Properties
         At the bottom, if you see a checkbox that says Unblock, tick it and click Apply → OK
-        Do this for every .dll in the download if there is more than one.
 
     Copy the files into Pulsar’s Local folder:
         Open File Explorer and paste this into the address bar:
