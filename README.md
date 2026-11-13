@@ -22,11 +22,40 @@ When those mods are not active the game is left completely alone.
 - Space Engineers
 - [Pulsar](https://github.com/SpaceGT/Pulsar)
 
-## Install 
-1. Start the game through Pulsar
-2. Open the **Plugins** list
-3. Search for **CrosshairAim**, enable it
-4. Apply and restart when prompted
+CrosshairAim – Manual Install Guide
+
+This plugin is installed manually (not through the Plugin Hub).
+Requirements
+
+    Space Engineers
+    [Pulsar](https://github.com/SpaceGT/Pulsar) (the current plugin loader)
+
+Install steps
+
+    Download the plugin zip and extract it.
+
+    Unblock the files (important on Windows)
+    Windows often blocks downloaded DLLs.
+        Right-click the .dll file → Properties
+        At the bottom, if you see a checkbox that says Unblock, tick it and click Apply → OK
+        Do this for every .dll in the download if there is more than one.
+
+    Copy the files into Pulsar’s Local folder:
+        Open File Explorer and paste this into the address bar:
+        %AppData%\Pulsar
+        Go into either Legacy\Local or Interim\Local
+        (use the one that matches how you launch the game)
+        Paste the plugin files here.
+
+    Enable the plugin
+        Launch Space Engineers through Pulsar.
+        On the main menu click Plugins.
+        Find CrosshairAim, enable it, then click Apply and restart when prompted.
+
+Notes
+
+    The plugin only does anything when Over The Shoulder+ or Take Cover or Die is active.
+    If the plugin doesn’t appear in the list, make sure the files were unblocked and placed in the correct Local folder.
 
 ## Local / development install
 
